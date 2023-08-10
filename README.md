@@ -1,4 +1,4 @@
-# ATM Example
+# atm-di-layer-code-config
+- sittipong hemloun 6410401183
 
-Dependency injection with a layer of indirection.
-
+<img src="code-config.png" alt="drawing" width="200"/>
